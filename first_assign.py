@@ -3,7 +3,7 @@
 
 naira = 200
 
-dollar = naira/30
+dollar = naira *30
 
 print(dollar)
 
